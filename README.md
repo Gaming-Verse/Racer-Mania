@@ -18,4 +18,5 @@ The current state of mobile browser performance is pretty dismal. Dont expect th
 any mobile device.
 
 ![image](https://user-images.githubusercontent.com/64016811/207862347-5939ac5b-493b-41e3-9f5d-64721870c228.png)
+![image](https://user-images.githubusercontent.com/64016811/207863025-011e569e-735e-4098-a805-4b5767c973a7.png)
 
